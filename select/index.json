@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "起死回生STORY",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2025-12-25T11:20:13.488021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "起死回生STORY",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_起死回生STORY_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "起死回生STORY",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_起死回生STORY_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
